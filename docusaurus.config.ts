@@ -53,7 +53,7 @@ srcDark: 'img/logo.webp',
 hideOnScroll: true,
 items: [
 { label: '空间', position: 'right', to: 'blog' },
-{ label: '说说', position: 'right', to: 'docs/docusaurus-guides' },
+{ label: '说说', position: 'right', to: 'docs/hi-nihao' },
 { label: '关于', position: 'right', to: 'about' },
 {
 label: '更多',
